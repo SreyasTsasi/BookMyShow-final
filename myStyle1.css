@@ -1,0 +1,45 @@
+/* Style for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Style for the navbar */
+.navbar {
+    background-color: #343a40;
+    color: #fff;
+}
+
+.navbar-brand {
+    color: #fff;
+    font-size: 24px;
+}
+
+/* Style for the movie details */
+.container {
+    padding: 20px;
+}
+
+.col-lg-8 {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 15px;
+}
+
+img.img-fluid {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+p {
+    line-height: 1.6;
+}
